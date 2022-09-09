@@ -1,0 +1,14 @@
+/* index css */
+
+.bg-mynav {
+    background-color: #010013;
+  }
+  
+  body {
+    font-size: 15px;
+    background-color: #f6f8fa;
+  }
+  
+  td {
+      line-height:50px;
+  }
